@@ -1,17 +1,8 @@
-name = "Universal"
-license = "MIT"
-licenselink = "https://github.com/devcows/hugo-universal-theme/blob/master/LICENSE"
-description = "A port of the Universal theme"
-homepage = "//github.com/devcows/hugo-universal-theme"
-tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
-features = ["blog", "themes", "disqus", "minimal", "responsive"]
+name = "PHT"
+description = "The PHT website theme"
+homepage = "//github.com/providencehealthtech/pht-website-theme"
 min_version = 0.15
 
 [author]
-    name = "adrianmo"
-    homepage = "//github.com/adrianmo"
-
-# If Porting existing theme
-[original]
-    author =  "bootstrapious"
-    homepage = "http://bootstrapious.com/p/universal-business-e-commerce-template"
+    name = "robertdown"
+    homepage = "//github.com/providencehealthtech"
