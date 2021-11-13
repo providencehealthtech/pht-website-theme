@@ -6,7 +6,7 @@
 
     --clr-white: hsl(0, 100%, 100%);
 
-    --ff-sans-serif: 'Mukta', arial, sans-serif;
+    --ff-sans-serif:  loos-condensed, sans-serif;
     --ff-serif: 'Arvo', serif;
 }
 
@@ -44,7 +44,7 @@ body {
 
 .wordmark {
     font-size: 3rem;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 .lead-text {
